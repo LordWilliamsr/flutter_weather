@@ -1,9 +1,6 @@
 import 'package:geolocator/geolocator.dart';
 
 class Location {
-  late double latitude;
-  late double longitude;
-
   // get current location
   /// Determine the current position of the device.
   ///
